@@ -7,3 +7,4 @@ echo "$a is less than $b"
 else
 echo "$a is equal to or greater than $b"
 fi
+echo "this needs to work"
