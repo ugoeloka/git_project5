@@ -8,3 +8,8 @@ else
 echo "$a is equal to or greater than $b"
 fi
 echo "this needs to work"
+for (( i=1; i<=10; i=i-2 ))
+do 
+echo $i
+echo "this is a test"
+done
